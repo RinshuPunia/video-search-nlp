@@ -97,5 +97,3 @@ if st.button("search"):
 else:
     st.write("type query")            
 
-
-#python -m streamlit run c:\Users\Rinshu\OneDrive\Desktop\PROJECT2\app.py
