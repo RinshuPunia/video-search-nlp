@@ -1,0 +1,6 @@
+streamlit
+openai-whisper
+moviepy
+sentence-transformers
+torch
+json
